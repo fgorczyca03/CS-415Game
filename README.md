@@ -64,7 +64,7 @@ Clone this repository:
 
 git clone https://github.com/fgorczyca03/CS-415Game.git
 
-Open the project in Unity (Version: [Specify version]).
+Open the project in Unity
 
 Build and run the game using Unity’s Build Settings (Windows, macOS, or WebGL).
 
