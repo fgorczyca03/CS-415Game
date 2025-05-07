@@ -1,0 +1,4 @@
+repository "CS-415Game@yourlocalpal@cloud"
+  path "/"
+    br "/main"
+    co "/main"
