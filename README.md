@@ -22,8 +22,6 @@ To escape, they must complete a series of tasks.
 
 The game includes:
 
-Puzzle-solving elements
-
 Time-sensitive challenges
 
 A dynamic horror atmosphere (sound effects, lighting, and environment design)
@@ -37,8 +35,6 @@ Interactive objects that the player can inspect or use.
 A series of tasks and puzzles that must be completed to survive.
 
 Dynamic sound design to enhance the horror experience.
-
-Player health and a survival timer.
 
 🛠️ Development Details
 
