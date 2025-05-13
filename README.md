@@ -1,6 +1,6 @@
-##CS415 Horror Game
+# CS415 Horror Game
 
-*📌 *Project Overview
+* 📌 * Project Overview
 
 This is a horror game developed in Unity as part of the CS415 class during the summer of 2024. The game is set in a dark, abandoned church where players must complete various tasks to survive. The eerie atmosphere and sound design enhance the sense of fear and tension.
 
@@ -14,7 +14,7 @@ Development Duration: 3 weeks
 
 Development Method: Agile (iterative sprints)
 
-🎮 *Gameplay
+🎮 * Gameplay
 
 The player is trapped in a haunted church.
 
@@ -26,7 +26,7 @@ Time-sensitive challenges
 
 A dynamic horror atmosphere (sound effects, lighting, and environment design)
 
-🚀 *Features
+🚀 * Features
 
 Dark, atmospheric church environment.
 
@@ -36,7 +36,7 @@ A series of tasks and puzzles that must be completed to survive.
 
 Dynamic sound design to enhance the horror experience.
 
-🛠️ *Development Details
+🛠️ * Development Details
 
 Game Engine: Unity
 
@@ -54,7 +54,7 @@ GitHub for version control
 
 Trello
 
-⚡ *How to Run the Game
+⚡ * How to Run the Game
 
 Clone this repository:
 
@@ -64,7 +64,7 @@ Open the project in Unity
 
 Build and run the game using Unity’s Build Settings (Windows, macOS, or WebGL).
 
-👥 *Contributors
+👥 * Contributors
 
 Filip Gorczyca https://github.com/fgorczyca03
 
